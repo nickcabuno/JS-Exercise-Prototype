@@ -48,7 +48,6 @@ describe('Instances of Person', () => {
     })
   })
   
-  //car
   describe('Instances of Car', () => {
     let batmobile
     beforeEach(() => {
