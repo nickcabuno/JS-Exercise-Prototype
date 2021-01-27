@@ -124,10 +124,10 @@ function Airplane(name) {
   /* 
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. implicit binding 
-    2. explicit binding
-    3. new binding  
-    4. global binding
+    1. implicit binding is when we use dot notation to invoke a function
+    2. explicit binding is call() or bind()
+    3. new binding refers to a specific instance of of the object that is created
+    4. global binding is when the value of this is determined by the console object
   */
   
   
